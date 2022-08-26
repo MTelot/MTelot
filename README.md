@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MTelot
+- 👀 I’m interested in Software Development, cyber security 
+- 🌱 I’m currently learning python
+- 📫 How to reach me? aetelot@gmail.com
